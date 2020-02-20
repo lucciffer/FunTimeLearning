@@ -24,4 +24,5 @@ while True:
 
 """
 This project of Christmas Tree was coded by #Lucciffer
+This program, in order to run shall require randint and time libraries of python
 """
