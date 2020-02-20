@@ -193,7 +193,8 @@ while(True):
     """
     This project of TicTacToe game was developed by #Lucciffer
     This program shall require  'pygame' and 'time' libraries of python
-    Note that the art work for main screen of the game(named 'Tic Tac opening.png'), and the 'X'(named 'x.png') and 'O'(named 'o.png') markings shall differ for user if he/she decides to create their own art works.
+    Note that the art work for main screen of the game(named 'Tic Tac opening.png'), and the 'X'(named 'x.png') and 'O'(named 'o.png') 
+    markings shall differ for user if he/she decides to create their own art works.
     """
 
     #this program is tested and works fine.
