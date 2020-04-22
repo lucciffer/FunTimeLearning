@@ -9,3 +9,6 @@ data = s.find_all("div",class_ = "maincounter-number")
 print("Total cases: ",data[0].text.strip())
 print("Total deaths: ",data[1].text.strip())
 print("Total recovered: ",data[2].text.strip())
+
+
+#lucciffer
