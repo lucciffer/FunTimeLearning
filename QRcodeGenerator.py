@@ -6,3 +6,7 @@ url = pyqrcode.create(site)
 
 url.svg("techhengineqrcode.svg", scale = 8)
 print("QR code generated succesfully!")
+
+
+
+#lucciffer
